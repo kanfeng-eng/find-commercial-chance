@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人商业机会探索"
+  short_description: "通过个人深度访谈与市场证据，筛选赚钱方向并验证商业可行性"
+  default_prompt: "使用 $opportunity-architect，先读取 Memory，一次问一个问题，开始个人信息调查。"
